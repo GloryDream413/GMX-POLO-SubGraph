@@ -1,0 +1,9 @@
+referrals/node_modules
+referrals/build
+referrals/generated
+stats/node_modules
+stats/build
+stats/generated
+trades/node_modules
+trades/build
+trades/generated

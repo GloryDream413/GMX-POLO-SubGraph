@@ -1,0 +1,14 @@
+{
+  "name": "gmx-avalanche-referrals",
+  "license": "UNLICENSED",
+  "scripts": {
+    "codegen": "graph codegen",
+    "build": "graph build",
+    "deploy-test": "graph deploy --product hosted-service glorydream413/poope-referrals --deploy-key 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",
+    "deploy-prod": "graph deploy --product hosted-service glorydream413/poope-referrals --deploy-key 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"
+  },
+  "dependencies": {
+    "@graphprotocol/graph-cli": "0.21.1",
+    "@graphprotocol/graph-ts": "0.20.0"
+  }
+}
