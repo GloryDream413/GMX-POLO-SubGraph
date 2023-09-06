@@ -4,8 +4,8 @@
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "deploy-prod": "graph deploy --product hosted-service glorydream413/poope --deploy-key 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",
-    "deploy-test": "graph deploy --product hosted-service glorydream413/poope --deploy-key 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"
+    "deploy-prod": "graph deploy --product hosted-service glorydream413/polo-stats --deploy-key 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",
+    "deploy-test": "graph deploy --product hosted-service glorydream413/polo-stats --deploy-key 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"
   },
   "dependencies": {
     "@graphprotocol/graph-cli": "0.21.1",
